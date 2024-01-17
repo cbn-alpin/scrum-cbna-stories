@@ -1,7 +1,7 @@
 ---
-name: Story template
+name: Story
 about: Squelette d'une story Scrum.
-title: But et contexte de la story
+title: "[CONTEXTE] But de la story"
 labels: ''
 assignees: ''
 
