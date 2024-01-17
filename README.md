@@ -50,14 +50,6 @@ Permet d'indiquer le projet concerné par la story :
 - **p:resto** : projet Restauration du service Conservation.
 - **p:floresent** : projet Flore Sentinelle et ces modules GeoNature.
 
-### Statuts [s]
-
-Permet d'indiquer l'état d'une story à un moment donné.
-Les labels disponibles sont :
-- **s:bloquant** (#e11d21): le problème décrit dans la story/ticket bloque le fonctionnement normal du système. Intervention immédiate nécessaire.
-- **s:complement** (#b58a1e) : la story nécessite un complément d'information pour être traité.
-- **s:discussion** (#fbca04) : le story nécessite un choix qui doit être discuté.
-
 ### Info [i]
 
 Permet d'ajouter des informations complémentaires au ticket :  
